@@ -8,3 +8,14 @@ In this project, I have containerized a complete web application using Docker an
 
 Link to the project : [FullStack Application to Kubernetes](https://victorious-peace-7a9.notion.site/Deploying-a-FullStack-Application-to-Kubernetes-Using-EKS-f0590065998c4500a546f2b7795aa7e6?pvs=4)
 Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/full-stack-app-to-kubernetes)
+
+## Project 2: Terraform Demos on AWS
+
+
+A collection of Terraform demos showcasing infrastructure provisioning and management on AWS
+**Demo01 :** Deploying a web application using terraform 
+
+**Services used in this project :**  Infrastructure as Code (IaC), Terrafom ,AWS Services
+
+Link to the project : [Terraform Demos](https://victorious-peace-7a9.notion.site/Demo01-Deploying-web-application-using-terraform-ee1029de39c14cb4b30bb7c8d8702c0d?pvs=4)
+Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/terrafom-aws-demos/demo01-web_app_using_terraform)
