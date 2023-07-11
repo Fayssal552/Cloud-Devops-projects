@@ -13,9 +13,11 @@ Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-p
 
 
 A collection of Terraform demos showcasing infrastructure provisioning and management on AWS
+
 **Demo01 :** Deploying a web application using terraform 
+**Demo02 :** Create AWS Resources with Terraform & Jenkins
 
-**Services used in this project :**  Infrastructure as Code (IaC), Terrafom ,AWS Services
+**Services used in this project :**  Infrastructure as Code (IaC), Terrafom ,AWS Services, Jenkins
 
-Link to the project : [Terraform Demos](https://victorious-peace-7a9.notion.site/Demo01-Deploying-web-application-using-terraform-ee1029de39c14cb4b30bb7c8d8702c0d?pvs=4)
-Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/terrafom-aws-demos/demo01-web_app_using_terraform)
+Link to the project : [Terraform Demos](https://victorious-peace-7a9.notion.site/Terraform-aws-demos-3c23945ef9dd410fbbb8e81a06c2cdf6?pvs=4)
+Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/terraform-aws-demos)
