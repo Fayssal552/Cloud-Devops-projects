@@ -20,5 +20,5 @@ A collection of Terraform demos showcasing infrastructure provisioning and manag
 
 **Services used in this project :**  Infrastructure as Code (IaC), Terrafom ,AWS Services, Jenkins
 
-Link to the project : [Terraform Demos](https://victorious-peace-7a9.notion.site/Terraform-aws-demos-3c23945ef9dd410fbbb8e81a06c2cdf6?pvs=4)
+Link to the project : [Terraform Demos](https://victorious-peace-7a9.notion.site/Terraform-AWS-demos-5814079e195f4c58af5171048e2a3b8b?pvs=4)
 Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/terraform-aws-demos)
