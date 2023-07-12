@@ -18,9 +18,9 @@ A collection of Terraform demos showcasing infrastructure provisioning and manag
 
 **Demo02 :** Create AWS Resources with Terraform & Jenkins.
 
-**Services used in this project :**  Infrastructure as Code (IaC), Terrafom ,AWS Services, Jenkins
+**Services used in these demos :**  Infrastructure as Code (IaC), Terrafom ,AWS Services, Jenkins
 
-Link to the project : [Terraform Demos](https://victorious-peace-7a9.notion.site/Terraform-AWS-demos-5814079e195f4c58af5171048e2a3b8b?pvs=4)
+Link to the demos : [Terraform Demos](https://victorious-peace-7a9.notion.site/Terraform-AWS-demos-5814079e195f4c58af5171048e2a3b8b?pvs=4)
 Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/terraform-aws-demos)
 
 ## Project 3: Ansible Demos on AWS
@@ -30,7 +30,7 @@ A collection of Ansible demos showcasing infrastructure provisioning and configu
 
 **Demo01 :** Deployment of a simple nginx webpage in multiple EC2 instances using Ansible;
 
-**Services used in this project :**  Ansible ,AWS Services
+**Services used in these demos :**  Ansible ,AWS Services
 
-Link to the project : [Ansible Demos](https://victorious-peace-7a9.notion.site/Demo-01-Deployment-of-a-simple-webpage-in-multiple-EC2-instances-using-Ansible-87872ef549ae4a22894e3abaf4486073?pvs=4)
+Link to the demos : [Ansible Demos](https://www.notion.so/Ansible-Demos-1319f0865c1243be8138398febc76ce6?pvs=4)
 Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/ansible-aws-demos)
