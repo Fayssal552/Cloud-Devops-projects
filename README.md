@@ -32,7 +32,7 @@ A collection of Ansible Projects showcasing infrastructure provisioning and conf
 
 **Services used in these projects :**  Ansible ,AWS Services
 
-Link to the projects : [Ansible Projects](https://www.notion.so/Ansible-Demos-1319f0865c1243be8138398febc76ce6?pvs=4)
+Link to the projects : [Ansible Projects](https://victorious-peace-7a9.notion.site/Ansible-Projects-1319f0865c1243be8138398febc76ce6?pvs=4)
 Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/ansible-aws-demos)
 
 ## CI/CD Pipeline Projects
