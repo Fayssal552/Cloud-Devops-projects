@@ -16,7 +16,7 @@ A collection of Terraform Projects showcasing infrastructure provisioning and ma
 
 - **Project 1 :** Deploying a web application using terraform.
 
-- **Project 2 :** Create AWS Resources with Terraform & Jenkins.
+- **Project 2 :** Creaing AWS Resources with Terraform & Jenkins.
 
 **Services used in these projects :**  Infrastructure as Code (IaC), Terrafom ,AWS Services, Jenkins
 
