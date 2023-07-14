@@ -14,9 +14,9 @@ Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-p
 
 A collection of Terraform Projects showcasing infrastructure provisioning and management on AWS
 
-**Project1 :** Deploying a web application using terraform.
+- **Project1 :** Deploying a web application using terraform.
 
-**Project02 :** Create AWS Resources with Terraform & Jenkins.
+- **Project02 :** Create AWS Resources with Terraform & Jenkins.
 
 **Services used in these projects :**  Infrastructure as Code (IaC), Terrafom ,AWS Services, Jenkins
 
