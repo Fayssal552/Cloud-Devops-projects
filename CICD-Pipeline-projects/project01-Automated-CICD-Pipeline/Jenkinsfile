@@ -1,0 +1,31 @@
+node{
+    
+    stage('Clone repo'){
+        git credentialsId: 'GitCredentials', url: 'https://github.com/Fayssal552/maven-web-app.git'
+    }
+    
+    stage('Maven Build'){
+        def mavenHome = tool name: "maven-3.9.3", type: "maven"
+        def mavenCMD = "${mavenHome}/bin/mvn"
+        sh "${mavenCMD} clean package"
+    }
+    
+    stage('Code Review') {       
+        withSonarQubeEnv(credentialsId: 'SonarQube') {
+            def mavenHome = tool name: "maven-3.9.3", type: "maven"
+            def mavenCMD = "${mavenHome}/bin/mvn"
+            sh "${mavenCMD} sonar:sonar"
+        }
+    }
+    
+    stage('upload build artifact') {
+        nexusArtifactUploader artifacts: [[artifactId: '01-maven-web-app', classifier: '', file: 'target/01-maven-web-app.war', type: 'war']], credentialsId: 'Nexus-cred', groupId: 'in.fayssal', nexusUrl: '3.87.200.37:8081', nexusVersion: 'nexus3', protocol: 'http', repository: 'fayssal-repo', version: '1.0-SNAPSHOT'
+    }
+    
+    stage('deploy app'){
+        sshagent(['Tomcat-Server-Agent']) {
+            sh 'scp -o StrictHostKeyChecking=no target/01-maven-web-app.war ubuntu@44.201.135.161:/home/ubuntu/apache-tomcat-9.0.78/webapps'
+        }
+    }
+    
+}
