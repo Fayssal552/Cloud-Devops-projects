@@ -44,5 +44,5 @@ A collection of CI/CD pipeline projects showcasing automated software delivery a
 
 **Services used in these projects :**  Jenkins ,EC2 instances, SonarQube, Nexus Repository Manager, Apache Tomcat, Maven
 
-Link to the projects : [CI/CD Pipeline Projects](https://victorious-peace-7a9.notion.site/CI-CD-Pipeline-Demos-621b8cd656d84103bcb484a0f0eca5f5?pvs=4)
+Link to the projects : [CI/CD Pipeline Projects](https://victorious-peace-7a9.notion.site/CI-CD-Pipeline-Projects-1f20170227b048bdb551a1dbeaa799cc?pvs=4)
 Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/CICD-Pipeline-projects)
