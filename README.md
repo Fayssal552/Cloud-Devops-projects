@@ -14,7 +14,7 @@ Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-p
 
 A collection of Terraform Projects showcasing infrastructure provisioning and management on AWS
 
-- **Project01 :** Deploying a web application using terraform.
+- **Project 1 :** Deploying a web application using terraform.
 
 - **Project 2 :** Create AWS Resources with Terraform & Jenkins.
 
@@ -28,7 +28,7 @@ Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-p
 
 A collection of Ansible Projects showcasing infrastructure provisioning and configuration management across various platforms and environments.
 
-- **Project 01 :** Deployment of a simple nginx webpage in multiple EC2 instances using Ansible;
+- **Project  1 :** Deployment of a simple nginx webpage in multiple EC2 instances using Ansible;
 
 **Services used in these projects :**  Ansible ,AWS Services
 
@@ -40,7 +40,7 @@ Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-p
 
 A collection of CI/CD pipeline projects showcasing automated software delivery and deployment processes across various platforms and environments.
 
-- **Project01 :** Automated CI/CD Pipeline for Java Web Application;
+- **Project 1 :** Automated CI/CD Pipeline for Java Web Application;
 
 **Services used in these projects :**  Jenkins ,EC2 instances, SonarQube, Nexus Repository Manager, Apache Tomcat, Maven
 
