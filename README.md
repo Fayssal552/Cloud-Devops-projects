@@ -46,3 +46,15 @@ A collection of CI/CD pipeline projects showcasing automated software delivery a
 
 Link to the projects : [CI/CD Pipeline Projects](https://victorious-peace-7a9.notion.site/CI-CD-Pipeline-Projects-1f20170227b048bdb551a1dbeaa799cc?pvs=4)
 Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/CICD-Pipeline-projects)
+
+## Kubernetes Projects
+
+
+A collection of Kubernetes projects showcasing container orchestration and management across diverse environments.
+
+- **Project 1 :** Kubernetes ingress with NGINX Ingress Controller Demo;
+
+**Services used in these projects :**  Kubernetes 
+
+Link to the projects : [Kubernetes Projects](https://victorious-peace-7a9.notion.site/Kubernetes-Projects-fa45272665024d1188ab940023475c96?pvs=4)
+Link to the resources : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/Kubernetes-projects)
