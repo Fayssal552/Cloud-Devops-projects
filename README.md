@@ -56,5 +56,5 @@ A collection of Kubernetes projects showcasing container orchestration and manag
 
 **Services used in these projects :**  Kubernetes 
 
-Link to the projects : [Kubernetes Projects](https://victorious-peace-7a9.notion.site/Kubernetes-Projects-fa45272665024d1188ab940023475c96?pvs=4)
+Link to the projects : [Kubernetes Projects](https://victorious-peace-7a9.notion.site/Kubernetes-Projects-fa45272665024d1188ab940023475c96?pvs=4) | 
 Source codes : [Resources](https://github.com/Fayssal552/Cloud-Devops-projects/tree/main/Kubernetes-projects)
